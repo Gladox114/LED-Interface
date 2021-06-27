@@ -6,5 +6,5 @@ It uses ws28128-rpi from jazzycamel
 
 
 
-The Server accepts will accept commands from the clients and will do what it is told to do.
+The Server will accept commands from the clients and will do what it is told to do.
 
